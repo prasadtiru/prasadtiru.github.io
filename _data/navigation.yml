@@ -2,6 +2,12 @@
 - title: Home
   url: /
 
+- title: Research
+  url: /research/
+
+  - title: Publications
+  url: /publications/
+
 - title: Presentations
   url: /presentations/
 
@@ -10,3 +16,6 @@
 
 - title: Blog
   url: /blog/
+
+  - title: Contact
+  url: /contact/
