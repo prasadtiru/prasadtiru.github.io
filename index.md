@@ -3,12 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Prasad has a Bachelor Degree in Electronics & Instrumentation from Andhra University, India and Masters degree from Indian Institute of Technology Bombay, where he was involved in the Nano Fabrication Laboratory doing work on Fabrication and Characterization of MEMS Sensors. He also worked for Semiconductor companies as a Firmware Engineer before joining the PhD program at NUS in the Department of Electrical and Computer Engineering. He is currently focusing his research on Underwater Communications and Networking. He also enjoys playing Table Tennis and Pool in free time.
+Prasad Anjangi received his Ph.D. in Electrical & Computer Engineering from [National Unversity of Singapore (NUS)](http://www.nus.edu.sg/) in 2016. Prior to that he received the B.Eng. degree in Electronics and Instrumentation Engineering from Andhra University, Andhra Pradesh, India, in 2007 and the M.Eng. degree in Biomedical Engineering from the [Indian Institute of Technology (IIT), Bombay](http://www.iitb.ac.in/), India, in 2009. Currently, he is a Research Fellow and part of core team at [Subnero Pte. Ltd](http://subnero.com/).
+He worked in semiconductor industries with [Atmel](http://www.atmel.com/) and [STMicroelectronics](http://www.st.com/content/st_com/en.html) as Firmware and Senior Design Engineer, respectively, from 2009 to 2012. His current research interests include underwater acoustic communications, signal processing, networking protocol design, and autonomous underwater vehicles.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Physical layer signal processing
+- Networking protocol design
+- Underwater communications & networking
+- Underwater navigation/positioning
