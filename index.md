@@ -10,5 +10,12 @@ He worked in semiconductor industries with [Atmel](http://www.atmel.com/) and [S
 
 - Physical layer signal processing
 - Networking protocol design
+- Internet of Things, Machine learning
 - Underwater communications & networking
 - Underwater navigation/positioning
+
+## Developed software and tools
+
+- `fjagepy` : [Click here for code](https://pypi.org/project/fjagepy/)
+- `unetpy` : [Click here for code](https://pypi.org/project/unetpy/)
+- Other contributions : [Click here for code](https://github.com/org-arl/unet-contrib/tree/master/contrib/Unet-C-API)
