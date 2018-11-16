@@ -3,8 +3,6 @@ layout: page
 excerpt: "Publications"
 ---
 
-## Publications
-
 ## Journals:
 -   P. Anjangi and M. Chitre, “Propagation Delay Aware Unslotted Schedules with Variable Packet Duration for Underwater Acoustic Networks,” IEEE Journal of Oceanic Engineering, pp. 1-17, January 2017. [pdf](https://arl.nus.edu.sg/twiki6/pub/ARL/BibEntries/Anjangi2017_PropagationDelay.pdf) [DOI](http://ieeexplore.ieee.org/document/7815272/)s
 
