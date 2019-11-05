@@ -18,4 +18,4 @@ He worked in semiconductor industries with [Atmel](http://www.atmel.com/) and [S
 
 - `fjagepy` : [Click here for code](https://pypi.org/project/fjagepy/)
 - `unetpy` : [Click here for code](https://pypi.org/project/unetpy/)
-- Other contributions : [Click here for code](https://github.com/org-arl/unet-contrib/tree/master/contrib/Unet-C-API)
+- Other contributions : [Click here for code](https://github.com/org-arl/unet-contrib/tree/master/unetsocket/)
