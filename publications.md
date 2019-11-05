@@ -32,6 +32,8 @@ excerpt: "Publications"
 
 ## Technical blogs:
 
+- P.Anjangi, [Using MATLAB with UnetStack3.](https://blog.unetstack.net/using-matlab-with-unetstack3#disqus_thread)
+
 - P.Anjangi, [Basic modem operations using UnetStack.](https://blog.unetstack.net/basic-modem-operations-using-unetstack#disqus_thread)
 
 - P.Anjangi, [On underwater localization using UnetStack.](https://blog.unetstack.net/on-underwater-localization-using-unetstack#disqus_thread)
