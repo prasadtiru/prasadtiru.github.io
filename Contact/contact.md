@@ -15,6 +15,4 @@ Icube Building, The Hangar
 
 Singapore 119613
 
-Tel: +65 82980480
-
 Email: [prasad.anjangi@u.nus.edu](prasad.anjangi@u.nus.edu), [prasad@subnero.com](prasad@subnero.com)
